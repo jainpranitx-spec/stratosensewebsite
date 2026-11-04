@@ -57,17 +57,3 @@ For permission requests, contact:
 stratosense.co@gmail.com
 
 ---
-
-**Maintainer checklist before publishing**
-
-1. Replace the copyright-holder placeholder with the correct legal owner(s).
-2. Add an authorised contact email.
-3. Confirm that all contributors have agreed on ownership and publication.
-4. Check third-party assets and dependencies for their own licence terms.
-5. If the repository is public, remember that visitors can still view and
-   technically retrieve its contents. A proprietary notice does not prevent
-   technical access; use a private repository for material that must not be
-   publicly accessible.
-
-This notice is a general rights statement, not legal advice. Have the final
-ownership and publication position reviewed under the applicable law.
